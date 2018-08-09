@@ -11,7 +11,7 @@ Based on the guides [Setting up a Private Routing Environment](https://www.theth
 * Install and start [Docker](https://www.docker.com/products/docker).
 * Install [Docker-Compose](https://www.docker.com/products/docker-compose)
 
-Checkout the repository. The docker-compose environment is in the folter `ttn`. All commands are executed from this directory. Configuration files and container state will endup in subdirectories and are mounted inside the container to `/etc/ttn/<component>/`
+Checkout the repository. The docker-compose environment is in the folder `ttn`. All commands are executed from this directory. Configuration files and container state will endup in subdirectories and are mounted inside the container to `/etc/ttn/<component>/`
 
 ## Setup Certificates
 
